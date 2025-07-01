@@ -8,7 +8,7 @@ import javafx.stage.Stage;
 public class FXDriver extends Application {
 
     public static void main(String[] args) {
-        launch(args);  // required for JavaFX apps
+        launch(args);  
     }
 
     @Override
